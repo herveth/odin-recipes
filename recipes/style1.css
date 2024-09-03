@@ -8,3 +8,8 @@ h1 {
     font-size: 50px;
     text-decoration: underline;
 }
+
+p {
+    margin-left: 10em;
+    margin-right: 10em;
+}
