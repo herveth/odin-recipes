@@ -13,3 +13,17 @@ p {
     margin-left: 10em;
     margin-right: 10em;
 }
+
+div {
+    background-color: beige;
+    font-size: 20px;
+    text-align: center;
+}
+
+.h3 {
+    color: darkgreen;
+}
+
+.text {
+    color: olive;
+}
