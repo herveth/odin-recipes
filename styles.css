@@ -1,15 +1,37 @@
 body {
     text-align: center;
+    display:inline-block;
     font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans', Arial, serif;
-    text-decoration: underline;
+
+    background: #eee;
 }
 
-h1 {
+.odin {
+    width: 500px;
+    background-color: blanchedalmond;
+    margin: 50px 300px;
+    padding: 20px;
+    border: 3px solid  #ff6347;
+   
+}
+
+.title {
     font-size: 50px;
+    text-decoration: underline;
 }
 
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+  }
+
+  ul li a {
+    display: inline-block;
+    padding: 30px;
+    margin: 15px;
+    color: black;
+    border: 2px solid #ff6347;
+  background-color: #b89e1c;
+
   }
