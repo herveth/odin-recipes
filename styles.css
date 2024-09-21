@@ -8,7 +8,7 @@ body {
 
 .odin {
     width: 500px;
-    background-color: blanchedalmond;
+    background-color: #93836c;
     margin: 50px 300px;
     padding: 20px;
     border: 3px solid  #ff6347;
@@ -30,8 +30,8 @@ ul {
     display: inline-block;
     padding: 30px;
     margin: 15px;
-    color: black;
+    color: white;
     border: 2px solid #ff6347;
-  background-color: #b89e1c;
+  background-color: #4d2e00;
 
   }
